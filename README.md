@@ -1,6 +1,7 @@
 
 # Clash for Windows Mixin Injection Script
 [中文](README_ZH.md)
+
 This is a Mixin injection script for Clash for Windows. The main purpose of this script is to automatically create a proxy group called "United States", add all proxies marked with "🇺🇸" into this group, and set up routing rules for a series of specific domains, ensuring all traffic accessing ChatGPT-related websites goes through the U.S. nodes.
 
 ## Usage
